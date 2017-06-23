@@ -208,6 +208,7 @@ tidak dikumpulkan sebagai sampah (karena setidaknya ada satu refernsi
 langsung untuk itu).
 
 __Lambda Vs. Closure__
+
 _Lambda_ pada dasarnya adalah fungsi yang didefinisikan secara _inline_
 daripada metode standar untuk mendeklarasikan fungsi. Lambda sering dapat
 dilewatkan sebagai objek.
